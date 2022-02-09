@@ -1,0 +1,28 @@
+<Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+<Header/>
+<Body>
+<ns3:getValidationObjResponse xmlns:ns3="http://equitybank.co.ke/">
+<return>
+<amount>10000</amount>
+<billName>SMU RECEIPT</billName>
+<billNumber>1020294</billNumber>
+<billStatus>ACTIVE</billStatus>
+<created_on>12/14/2021 19:30:00</created_on>
+<currency_code>KES</currency_code>
+<customerName>ALEX</customerName>
+<department_code>001</department_code>
+<doc_ref></doc_ref>
+<dueDate>12/20/2021</dueDate>
+<expiryDate>12/20/2021</expiryDate>
+<message>SUCCESS</message>
+<paidAmount/>
+<region_code/>
+<slippaymentcode/>
+<station_Code/>
+<status>true</status>
+<system_code/>
+<tax_type_desc/>
+</return>
+</ns3:getValidationObjResponse>
+</Body>
+</Envelope>
